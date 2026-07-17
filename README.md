@@ -15,7 +15,7 @@ https://github.com/yinwanxi/Uperf-Game-Turbo/releases
 使用方法 
 
     把uperf.json 直接复制替换文件  路径:Android > yc > uperf
-
+    正常的话应该会立刻生效
     cur_powermode.txt 确保为auto
 
 喜欢的话请给个Star哦
